@@ -1,0 +1,6 @@
+C:\Users\quint\OneDrive for Business\Second Year\Semester 1\CAB201\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\quint\OneDrive for Business\Second Year\Semester 1\CAB201\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\quint\OneDrive for Business\Second Year\Semester 1\CAB201\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\quint\OneDrive for Business\Second Year\Semester 1\CAB201\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\quint\OneDrive for Business\Second Year\Semester 1\CAB201\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\quint\OneDrive for Business\Second Year\Semester 1\CAB201\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
